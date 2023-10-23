@@ -16,7 +16,16 @@ Invariant Feature Regularization for Fair Face Recognition (ICCV'23)
 * python (3.8.12)
 
 ## Citation
-
+If you find InvReg helpful in your research, please consider citing: 
+```bibtex   
+@inproceedings{ma2023invariant,
+  title={Invariant Feature Regularization for Fair Face Recognition},
+  author={Ma, Jiali and Yue, Zhongqi and Tomoyuki, Kagaya and Tomoki, Suzuki and Jayashree, Karlekar and Pranata, Sugiri and Zhang, Hanwang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={20861--20870},
+  year={2023}
+}
+```
 ## References & Opensources
 Part of our implementation is adopted from the Arcface, IP-IRM, TFace and InvariantRiskMinimization repositories.
 * Arcface(https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch)
